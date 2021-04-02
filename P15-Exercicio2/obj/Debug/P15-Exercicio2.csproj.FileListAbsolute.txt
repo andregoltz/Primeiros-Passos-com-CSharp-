@@ -1,0 +1,6 @@
+C:\Users\andre\source\repos\AprendendoCSharp\P15-Exercicio2\bin\Debug\P15-Exercicio2.exe.config
+C:\Users\andre\source\repos\AprendendoCSharp\P15-Exercicio2\bin\Debug\P15-Exercicio2.exe
+C:\Users\andre\source\repos\AprendendoCSharp\P15-Exercicio2\bin\Debug\P15-Exercicio2.pdb
+C:\Users\andre\source\repos\AprendendoCSharp\P15-Exercicio2\obj\Debug\P15-Exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\AprendendoCSharp\P15-Exercicio2\obj\Debug\P15-Exercicio2.exe
+C:\Users\andre\source\repos\AprendendoCSharp\P15-Exercicio2\obj\Debug\P15-Exercicio2.pdb
